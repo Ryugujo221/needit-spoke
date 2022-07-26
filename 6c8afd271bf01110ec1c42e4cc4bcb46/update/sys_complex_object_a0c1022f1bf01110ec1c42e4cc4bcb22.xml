@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDecc1022feaf01110614334863e7d0c21</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>6c8afd271bf01110ec1c42e4cc4bcb46</scope_name>
+        <serialized_content>{"FlowDesigner:FDecc1022feaf01110614334863e7d0c21":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDecc1022feaf01110614334863e7d0c21.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"5d1d1194-2d93-42c0-abc0-454430d13e0c\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDecc1022feaf01110614334863e7d0c21\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 05:06:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a0c1022f1bf01110ec1c42e4cc4bcb22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDecc1022feaf01110614334863e7d0c21</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_849291_needit_sp">6c8afd271bf01110ec1c42e4cc4bcb46</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">6c8afd271bf01110ec1c42e4cc4bcb46</sys_scope>
+        <sys_update_name>sys_complex_object_a0c1022f1bf01110ec1c42e4cc4bcb22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 05:06:58</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
